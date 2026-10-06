@@ -1,0 +1,7 @@
+theia@theia-matthewurban:/home/project/mcino-Introduction-to-Git-and-Gi
+tHub$ git branch -vv
+* bug-fix-revert 296bc9f [origin/bug-fix-revert] Revert "updated copyright year in README.md"
+  bug-fix-typo   d8ee660 [origin/bug-fix-typo] updated copyright year in README.md
+  main           d8ee660 [origin/main: ahead 1] updated copyright year in README.md
+theia@theia-matthewurban:/home/project/mcino-Introduction-to-Git-and-Gi
+tHub$ 
