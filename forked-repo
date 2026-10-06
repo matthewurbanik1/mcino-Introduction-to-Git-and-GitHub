@@ -1,0 +1,4 @@
+theia@theia-matthewurban:/home/project$ curl -s https://api.github.com/repos/matthewurbanik1/mcino-Introduction-to-Git-and-GitHub | jq -r '.pa
+rent.clone_url'
+https://github.com/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub.git
+theia@theia-matthewurban:/home/project$ 
